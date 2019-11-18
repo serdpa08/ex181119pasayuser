@@ -37,3 +37,40 @@ nav a{
 .contenedor img:hover{
     opacity: 0.4;
 }
+
+.capaContenedora{
+    width: 90%;
+    min-height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+span{
+    background: yellow;
+    border: 1px solid black;
+    display: inline-block;
+    width: 20%;
+    height: 70px;
+}
+
+.capacontenedora1{
+    width: 49%;
+    float: left;
+    min-height: 200px;
+}
+
+.gris1, .gris2, .gris3{
+    width: 33%;
+    float: left;
+    background: grey;
+    min-height: 150px;
+}
+
+.gris2{
+    opacity: 0.7;
+}
+.gris3{
+    opacity: 0.3;
+}
+
