@@ -1,0 +1,39 @@
+nav {
+    background-color: darkslategray;
+
+}
+
+nav a{
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.activo{
+    background-color: lightblue;
+}
+
+.inactivo{
+    background-color: darkslategray;
+
+}
+.inactivo:hover{
+    background-color: darkgray;
+}
+
+.contenedor{
+    border: 1px solid black;
+    margin-top: 40px;
+}
+
+.contenedor img{
+    margin-left: 1.5%;
+    display: inline-block;
+    width: 25%;
+    padding: 3%;
+}
+
+.contenedor img:hover{
+    opacity: 0.4;
+}
